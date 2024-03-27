@@ -1,2 +1,2 @@
-# Exerc-cio-An-lise-de-Dados-com-Python
+# Exercicio-Analise-de-Dados-com-Python
 Exercício de análise de dados utilizando Python com dados fictícios.
